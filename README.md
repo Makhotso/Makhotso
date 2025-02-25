@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Makhotso
-- 👀 I’m interested in Coding and eventually growing that to Data Analytics
-- 🌱 I’m currently learning Java, Python 
-- 💞️ I’m looking to collaborate on any projects in Java, Python, HTML5, CSS, JavaScript, VB.NET, SQL
+- 👀 I’m interested in Coding 
+- 🌱 I am a Java Developer
+- 💞️ I’m looking to collaborate on any projects in Java, HTML5, CSS, JavaScript, VB.NET, SQL, MySQL, Spring Boot, React
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...

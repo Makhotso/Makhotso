@@ -6,10 +6,15 @@
  Tech Stack 
  
 Languages: Java SE 8
-Frontend: React, HTML, CSS 
+
+Frontend: React, HTML, CSS
+
 Backend: Spring Boot, Maven, Postman
+
 Database: MySQL, SQL, Microsoft SQL Server
+
 Cloud / DevOps: Git
+
 - 📫 How to reach me : www.linkedin.com/in/makhotso-mphahlele-346709106 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Facing challenges and solving problems is my favorite part of being a developer.

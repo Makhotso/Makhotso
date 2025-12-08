@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Makhotso
-- 🌱 Currently learning: Python, AWS, Gradle, AI, Selenium
+- 🌱 Currently learning: AWS, Gradle, AI, Selenium
 - 👀 Aspiring: Java Developer
 - 💞️ Passionate about: building scalable Java applications, clean and maintainable architecture, Spring Boot development, automation testing and modern frontend development.
 
